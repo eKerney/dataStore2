@@ -1,0 +1,205 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "0",
+            "type": "Feature",
+            "properties": {
+                "geoidHeight": -34.5,
+                "terrainNAVD88": 192.9,
+                "terrainWGS84": 158.4,
+                "units": "m",
+                "altitude": 188.88,
+                "AGL": 30.48,
+                "height_above_takeoff": 30.48
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.08507853873675,
+                    42.367768888789136
+                ]
+            }
+        },
+        {
+            "id": "1",
+            "type": "Feature",
+            "properties": {
+                "geoidHeight": -34.5,
+                "terrainNAVD88": 192.6,
+                "terrainWGS84": 158.1,
+                "units": "m",
+                "altitude": 188.57999999999998,
+                "AGL": 30.48,
+                "height_above_takeoff": 30.18
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.08464324517657,
+                    42.36728486281246
+                ]
+            }
+        },
+        {
+            "id": "2",
+            "type": "Feature",
+            "properties": {
+                "geoidHeight": -34.5,
+                "terrainNAVD88": 186.5,
+                "terrainWGS84": 152.0,
+                "units": "m",
+                "altitude": 182.48,
+                "AGL": 30.48,
+                "height_above_takeoff": 24.08
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.08955074362231,
+                    42.349702594548724
+                ]
+            }
+        },
+        {
+            "id": "3",
+            "type": "Feature",
+            "properties": {
+                "geoidHeight": -34.5,
+                "terrainNAVD88": 185.9,
+                "terrainWGS84": 151.4,
+                "units": "m",
+                "altitude": 181.88,
+                "AGL": 30.48,
+                "height_above_takeoff": 23.48
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.08432834191889,
+                    42.34389441119713
+                ]
+            }
+        },
+        {
+            "id": "4",
+            "type": "Feature",
+            "properties": {
+                "geoidHeight": -34.5,
+                "terrainNAVD88": 184.1,
+                "terrainWGS84": 149.6,
+                "units": "m",
+                "altitude": 180.07999999999998,
+                "AGL": 30.48,
+                "height_above_takeoff": 21.68
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.08577772407307,
+                    42.33869964103634
+                ]
+            }
+        },
+        {
+            "id": "5",
+            "type": "Feature",
+            "properties": {
+                "geoidHeight": -34.5,
+                "terrainNAVD88": 183.5,
+                "terrainWGS84": 149.0,
+                "units": "m",
+                "altitude": 179.48,
+                "AGL": 30.48,
+                "height_above_takeoff": 21.08
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.07925114846532,
+                    42.33143919445963
+                ]
+            }
+        },
+        {
+            "id": "6",
+            "type": "Feature",
+            "properties": {
+                "geoidHeight": -34.5,
+                "terrainNAVD88": 183.8,
+                "terrainWGS84": 149.3,
+                "units": "m",
+                "altitude": 179.78,
+                "AGL": 30.48,
+                "height_above_takeoff": 21.38
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.07936264398988,
+                    42.33103960221938
+                ]
+            }
+        },
+        {
+            "id": "7",
+            "type": "Feature",
+            "properties": {
+                "geoidHeight": -34.5,
+                "terrainNAVD88": 182.9,
+                "terrainWGS84": 148.4,
+                "units": "m",
+                "altitude": 178.88,
+                "AGL": 30.48,
+                "height_above_takeoff": 20.48
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.07892758683879,
+                    42.33055556072482
+                ]
+            }
+        },
+        {
+            "id": "8",
+            "type": "Feature",
+            "properties": {
+                "geoidHeight": -34.5,
+                "terrainNAVD88": 182.6,
+                "terrainWGS84": 148.1,
+                "units": "m",
+                "altitude": 178.57999999999998,
+                "AGL": 30.48,
+                "height_above_takeoff": 20.18
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.07903908157921,
+                    42.330155968730395
+                ]
+            }
+        },
+        {
+            "id": "9",
+            "type": "Feature",
+            "properties": {
+                "geoidHeight": -34.5,
+                "terrainNAVD88": 181.4,
+                "terrainWGS84": 146.9,
+                "units": "m",
+                "altitude": 177.38,
+                "AGL": 30.48,
+                "height_above_takeoff": 18.98
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.07773394886657,
+                    42.32870383650818
+                ]
+            }
+        }
+    ]
+}
