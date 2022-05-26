@@ -1,0 +1,4 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [{"type":"Feature","id":1,"geometry":{"type":"LineString","coordinates":[[-83.048869255623245,42.325906735653767],[-83.050185555843342,42.325276814842788],[-83.062208338374035,42.327137169608143],[-83.063524519761401,42.326507083348766],[-83.077733948866566,42.328703836508183]]},"properties":{"OBJECTID":1,"PathCost":244850.609375,"DestID":2,"StartID":1,"Shape_Length":2448.5060968386956,"InLine_FID":1,"SimLnFlag":0,"MaxSimpTol":0.001,"MinSimpTol":0.001}}]
+}

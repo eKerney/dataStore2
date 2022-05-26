@@ -1,0 +1,155 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "0",
+            "type": "Feature",
+            "properties": {
+                "geoidHeight": -34.5,
+                "terrainNAVD88": 179.5,
+                "terrainWGS84": 145.0,
+                "units": "m",
+                "altitude": 245.0,
+                "AGL": 100,
+                "height_above_takeoff": 100.0,
+                "cruiseSpeed": 15,
+                "firmwareType": 12,
+                "hoverSpeed": 5,
+                "vehicleType": 3,
+                "version": 3,
+                "homeCoords": [
+                    42.32590673565377,
+                    -83.04886925562325,
+                    100
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.04886925562325,
+                    42.32590673565377
+                ]
+            }
+        },
+        {
+            "id": "1",
+            "type": "Feature",
+            "properties": {
+                "geoidHeight": -34.6,
+                "terrainNAVD88": 176.2,
+                "terrainWGS84": 141.6,
+                "units": "m",
+                "altitude": 241.6,
+                "AGL": 100,
+                "height_above_takeoff": 96.6,
+                "cruiseSpeed": 15,
+                "firmwareType": 12,
+                "hoverSpeed": 5,
+                "vehicleType": 3,
+                "version": 3,
+                "homeCoords": [
+                    42.32590673565377,
+                    -83.04886925562325,
+                    100
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.05018555584334,
+                    42.32527681484279
+                ]
+            }
+        },
+        {
+            "id": "2",
+            "type": "Feature",
+            "properties": {
+                "geoidHeight": -34.5,
+                "terrainNAVD88": 183.5,
+                "terrainWGS84": 149.0,
+                "units": "m",
+                "altitude": 249.0,
+                "AGL": 100,
+                "height_above_takeoff": 104.0,
+                "cruiseSpeed": 15,
+                "firmwareType": 12,
+                "hoverSpeed": 5,
+                "vehicleType": 3,
+                "version": 3,
+                "homeCoords": [
+                    42.32590673565377,
+                    -83.04886925562325,
+                    100
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.06220833837403,
+                    42.32713716960814
+                ]
+            }
+        },
+        {
+            "id": "3",
+            "type": "Feature",
+            "properties": {
+                "geoidHeight": -34.5,
+                "terrainNAVD88": 183.2,
+                "terrainWGS84": 148.7,
+                "units": "m",
+                "altitude": 248.7,
+                "AGL": 100,
+                "height_above_takeoff": 103.7,
+                "cruiseSpeed": 15,
+                "firmwareType": 12,
+                "hoverSpeed": 5,
+                "vehicleType": 3,
+                "version": 3,
+                "homeCoords": [
+                    42.32590673565377,
+                    -83.04886925562325,
+                    100
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.0635245197614,
+                    42.326507083348766
+                ]
+            }
+        },
+        {
+            "id": "4",
+            "type": "Feature",
+            "properties": {
+                "geoidHeight": -34.5,
+                "terrainNAVD88": 181.4,
+                "terrainWGS84": 146.9,
+                "units": "m",
+                "altitude": 246.9,
+                "AGL": 100,
+                "height_above_takeoff": 101.9,
+                "cruiseSpeed": 15,
+                "firmwareType": 12,
+                "hoverSpeed": 5,
+                "vehicleType": 3,
+                "version": 3,
+                "homeCoords": [
+                    42.32590673565377,
+                    -83.04886925562325,
+                    100
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.07773394886657,
+                    42.32870383650818
+                ]
+            }
+        }
+    ]
+}
